@@ -8,8 +8,7 @@ the key, it plays the corresponding note.
 
 The app idea was inspired by my kids.  They love playing with toy xylophones.  So, I built a magic xylophone app to play with my kids.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=8oWKkIVt8NE)
 
 # Development Environment
 
@@ -21,12 +20,12 @@ safety.
 
 # Useful Websites
 
-* [Dart.dev]https://dart.dev/overview
-* [Flutter.dev]https://flutter.dev
-* [Flutter]https://api.flutter.dev/flutter/material/material-library.html#classes
-* [Gitter.im]https://gitter.im/flutter/flutter
-* [pub.dev]https://pub.dev
-* [App Icon Generator]https://appicon.co
+* [Dart.dev](https://dart.dev/overview)
+* [Flutter.dev](https://flutter.dev)
+* [Flutter](https://api.flutter.dev/flutter/material/material-library.html#classes)
+* [Gitter.im](https://gitter.im/flutter/flutter)
+* [pub.dev](https://pub.dev)
+* [App Icon Generator](https://appicon.co)
 
 # Future Work
 
